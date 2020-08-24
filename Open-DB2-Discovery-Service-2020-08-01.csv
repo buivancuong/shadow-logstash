@@ -1,0 +1,5 @@
+timestamp,ip,protocol,port,hostname,tag,asn,geo,region,city,naics,sic,db2_hostname,servername,size
+8/1/2020 0:34,221.132.37.94,udp,523,,db2,45899,VN,HA NOI,HANOI,517311,,SERVER2,server2,298
+8/1/2020 0:35,221.132.37.93,udp,523,,db2,45899,VN,HA NOI,HANOI,517311,,SERVER1,server1,298
+8/1/2020 1:17,222.255.25.133,udp,523,static.vnpt.vn,db2,45899,VN,HA NOI,HANOI,517311,,DB,db,298
+8/1/2020 2:07,113.160.38.53,udp,523,static.vnpt-hanoi.com.vn,db2,45899,VN,HA NOI,HANOI,517311,,CSOFT-WINDOWS-6D5MFX1,CSOFT-WINDOWS-6D5MFX1,298

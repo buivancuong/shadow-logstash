@@ -1,0 +1,5 @@
+timestamp,ip,protocol,dst_port,tag,src_port,hostname,asn,geo,region,city,naics,sic,request,count,bytes,sensor_geo,sector,end_time,public_source
+"2020-08-01 00:11:33",115.74.10.48,,123,,,adsl.viettel.vn,7552,VN,"BA RIA-VUNG TAU","VUNG TAU",517312,,,,,,Communications,,CISPA
+"2020-08-01 00:11:33",27.69.185.147,,123,,,localhost,7552,VN,"KHANH HOA","NHA TRANG",517312,,,,,,Communications,,CISPA
+"2020-08-01 00:11:33",115.74.194.196,,123,,,adsl.viettel.vn,7552,VN,"HA NOI",HANOI,517312,,,,,,Communications,,CISPA
+"2020-08-01 00:11:34",115.74.225.103,,123,,,adsl.viettel.vn,7552,VN,"TAY NINH","TAY NINH",517312,,,,,,Communications,,CISPA

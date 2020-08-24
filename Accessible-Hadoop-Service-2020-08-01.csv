@@ -1,0 +1,5 @@
+"timestamp","ip","port","hostname","version","asn","geo","region","city","naics","sic","server_type","clusterid","total_disk","used_disk","free_disk","livenodes","namenodeaddress","volumeinfo"
+"2020-08-01 17:13:18","210.211.99.48",50070,,"2.8.4, r17e75c2a11685af3e043aa5e604dc831e5b14674",38731,"VN","HO CHI MINH","THANH PHO HO CHI MINH",0,,"namenode","CID-c1e689df-84a5-4683-8280-934c0403df64",982955581440,377993506816,209625956352,"sub1.yotel.vn:50010",,
+"2020-08-01 17:14:22","123.30.186.221",50070,"static.vnpt.vn","2.7.2, rb165c4fe8a74265c792ce23f546c64604acf0e41",45899,"VN","HA NOI","HANOI",517311,,"namenode","CID-b6767807-92c0-4ebf-ac10-e624e6f2fccf",2675011633152,314014897613,623729825627,"bodoop1.monitaz:50010",,
+"2020-08-01 17:37:34","103.226.249.107",50070,,"2.8.1, r20fe5304904fc2f5a18053c389e43cd26f7a70fe",135905,"VN","HA NOI","HANOI",0,,"namenode","CID-be890576-7fa0-465e-9c8a-20f3275031c5",528307453952,3473408,457966481574,"gdata:50010",,
+"2020-08-01 17:41:48","124.158.7.8",50070,,"2.6.4, r5082c73637530b0b7e115f9625ed7fac69f937e6",38732,"VN","HA NOI","HANOI",0,,"namenode","CID-a2f75f1a-8704-4643-b874-5f9b09cb581c",0,0,0,"{}",,

@@ -1,0 +1,66 @@
+{
+	"settings":{
+		"analysis":{
+			"analyzer":{
+				"default":{"type":"custom","tokenizer":"my_tokenizer","filter":["lowercase"]},
+				"default_search":{"type":"custom","tokenizer":"keyword","filter":["lowercase"]}
+			},
+			"tokenizer":{
+				"my_tokenizer":{"type":"ngram","min_gram":2,"max_gram":12}
+			}
+		},
+		"max_ngram_diff":10
+	},
+	"mappings":{
+		"dynamic": false,
+		"properties":{
+			"@timestamp":			{"type":"date"},
+			"@version":				{"type":"keyword"},
+			"message":				{"type":"keyword"},
+			"tags":					{"type":"keyword"},
+			"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+			"SenderIP":				{"type":"ip"},
+			"SenderAlias":			{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"SenderName":			{"type":"keyword"},
+
+			"DstIP":				{"type":"ip"},
+			"DstIP_CityName":		{"type":"keyword"},
+			"DstIP_CountryCode2":	{"type":"keyword"},
+			"DstIP_CountryName":	{"type":"keyword"},
+			"DstIP_Latitude":		{"type":"keyword"},
+			"DstIP_Longitude":		{"type":"keyword"},
+			"DstIP_RegionName":		{"type":"keyword"},
+			"DstIP_Timezone":		{"type":"keyword"},
+
+			"SrcIP":				{"type":"ip"},
+			"SrcIP_CityName":		{"type":"keyword"},
+			"SrcIP_CountryCode2":	{"type":"keyword"},
+			"SrcIP_CountryName":	{"type":"keyword"},
+			"SrcIP_Latitude":		{"type":"keyword"},
+			"SrcIP_Longitude":		{"type":"keyword"},
+			"SrcIP_RegionName":		{"type":"keyword"},
+			"SrcIP_Timezone":		{"type":"keyword"},
+
+			"Action":				{"type":"keyword"},
+			"CreationTime":			{"type":"keyword"},
+			"DstPort":				{"type":"keyword"},
+			"MD5Hash":				{"type":"keyword"},
+			"Protocol":				{"type":"keyword"},
+			"RuleName":				{"type":"keyword"},
+			"SenderArchitecture":	{"type":"keyword"},
+			"SenderOSName":			{"type":"keyword"},
+			"SenderOSVersion":		{"type":"keyword"},
+			"SourceCommandLine":	{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"SourceFilePath":		{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"SourceProcessID":		{"type":"keyword"},
+			"SourceProcessName":	{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"SrcPort":				{"type":"keyword"},
+			"TargetCommandLine":	{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"TargetFilePath":		{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"TargetProcessID":		{"type":"keyword"},
+			"TargetProcessName":	{"type":"keyword","fields":{"ngram":{"type":"text"}}},
+			"User":					{"type":"keyword"}	
+		}
+	}
+}

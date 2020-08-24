@@ -1,0 +1,391 @@
+timestamp,ip,port,hostname,tag,ipmi_version,asn,geo,region,city,none_auth,md2_auth,md5_auth,passkey_auth,oem_auth,defaultkg,permessage_auth,userlevel_auth,usernames,nulluser,anon_login,error,deviceid,devicerev,firmwarerev,version,manufacturerid,manufacturername,productid,productname,naics,sic,sector
+8/1/2020 0:17,103.125.188.51,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:18,103.141.138.14,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:19,115.79.118.196,623,adsl.viettel.vn,ipmi,1.5,7552,VN,VINH LONG,VINH LONG,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517312,,Communications
+8/1/2020 0:19,103.139.103.212,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:19,103.141.139.155,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:22,103.141.138.7,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:23,210.2.64.4,623,,ipmi,2,24085,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:23,221.132.35.11,623,server-35-11.netsangtao.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,no,yes,no,no,changed,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:23,103.125.188.225,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:25,103.125.188.19,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:25,103.140.250.17,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:25,118.68.218.124,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:26,125.212.250.65,623,,ipmi,2,3873,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 0:27,103.249.102.5,623,mx5.vipsend.net,ipmi,2,45538,VN,DONG NAI,BIEN HOA,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:27,103.141.139.177,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:28,103.88.112.215,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 0:28,103.141.139.135,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:28,103.141.139.209,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:29,45.117.79.126,623,45-117-79-126.static.bizmac.com,ipmi,2,131428,VN,HAI PHONG,HAI PHONG,yes,yes,yes,yes,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:29,103.140.250.10,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:30,103.139.103.209,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:30,103.88.112.211,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 0:31,103.125.188.63,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:31,103.249.102.2,623,mx2.vipsend.net,ipmi,2,45538,VN,DONG NAI,BIEN HOA,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:31,118.68.218.112,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:32,221.132.37.87,623,m87.filter.lnk.com.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:32,118.68.218.119,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:33,103.88.112.210,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 0:33,103.141.139.241,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:33,103.125.188.69,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:33,103.141.139.81,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:34,103.99.1.9,623,,ipmi,2,135905,VN,THAI NGUYEN,THAI NGUYEN,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:34,171.255.207.3,623,dynamic-ip-adsl.viettel.vn,ipmi,2,7552,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 0:34,103.125.188.85,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:34,103.125.188.43,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:35,118.68.218.122,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:36,103.125.188.53,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:36,103.141.139.169,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:36,103.141.139.107,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:36,103.125.188.215,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:37,210.245.24.35,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:37,103.104.122.1,623,static-ptr.vndata.vn,ipmi,2,135932,VN,HA NOI,HANOI,no,yes,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:38,103.141.139.101,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:39,183.91.1.170,623,static.cmcti.vn,ipmi,2,45903,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 0:39,103.127.196.235,623,,ipmi,2,135932,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:39,103.125.188.201,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:40,103.109.39.117,623,dc39.kdata.vn,ipmi,2,135942,VN,HAI PHONG,HAI PHONG,no,yes,yes,yes,yes,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:40,103.139.103.206,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:40,103.139.103.93,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:41,103.125.188.27,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:42,103.141.139.181,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:43,103.125.188.131,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:43,103.141.139.85,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:44,118.68.218.114,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:44,103.125.188.221,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:45,103.141.139.161,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:46,222.255.167.209,623,sv7209.powernet.vn,ipmi,2,45899,VN,DA NANG,DA NANG,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:46,107.155.6.34,623,,ipmi,2,21859,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,518210,,
+8/1/2020 0:46,171.244.9.182,623,,ipmi,2,38731,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517312,,Communications
+8/1/2020 0:47,45.118.151.152,623,hosted-by.vonline.vn,ipmi,2,131367,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:47,103.141.138.6,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:47,103.141.138.5,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:48,103.125.188.123,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:48,103.249.102.4,623,mx4.vipsend.net,ipmi,2,45538,VN,DONG NAI,BIEN HOA,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:49,103.141.139.245,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:51,103.140.250.6,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:51,118.68.218.115,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:51,45.122.253.226,623,static.cmcti.vn,ipmi,2,38732,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:52,103.125.188.145,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:53,103.141.139.201,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:53,103.141.139.243,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:54,103.42.56.250,623,ip.vnptcorp.com,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:54,103.141.139.219,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:54,103.70.28.117,623,,ipmi,2,63761,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,333995,,Communications
+8/1/2020 0:55,103.125.188.79,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:55,103.125.188.65,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:56,118.68.218.135,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 0:57,103.140.250.18,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:58,103.141.139.123,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:58,103.199.18.136,623,,ipmi,2,63734,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:59,103.140.250.35,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 0:59,203.210.143.13,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:02,103.141.139.189,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:02,103.125.188.75,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:03,103.125.188.236,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:03,103.125.188.229,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:04,103.141.139.205,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:04,103.140.250.31,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:04,103.125.188.89,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:04,103.141.139.239,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:05,103.139.103.202,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:05,118.68.218.121,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:05,103.70.30.244,623,maxhost.vn,ipmi,2,63761,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,333995,,Communications
+8/1/2020 1:06,180.93.32.60,623,,ipmi,2,7602,VN,DA NANG,DA NANG,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:06,103.141.139.129,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:06,222.255.167.210,623,static.vnpt.vn,ipmi,2,45899,VN,DA NANG,DA NANG,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:07,103.141.144.233,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:07,103.141.139.67,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:07,171.244.3.102,623,,ipmi,2,38731,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 1:07,103.141.139.137,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:07,118.68.218.123,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:08,103.141.139.103,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:08,103.141.139.237,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:09,103.141.139.185,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:10,103.141.139.91,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:10,103.9.1.19,623,static.telehouse.com.vn,ipmi,2,131358,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:11,103.139.103.216,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:11,103.125.188.151,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:11,103.140.250.8,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:11,118.69.164.188,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:11,113.164.14.18,623,static.vnpt.vn,ipmi,2,45899,VN,THUA THIEN-HUE,HUE,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:12,103.141.139.93,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:12,103.139.103.215,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:12,103.125.188.239,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:13,103.141.139.215,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:13,103.68.69.150,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:13,103.139.103.208,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:14,125.234.102.146,623,125.234.102.146.hcm.viettel.vn,ipmi,1.5,7552,VN,HA NOI,HANOI,no,no,yes,no,no,-,enabled,enabled,no,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 1:14,103.125.188.71,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:14,103.141.138.9,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:14,103.125.188.219,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:15,103.125.188.57,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:15,103.141.139.167,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:15,103.140.250.25,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:16,103.141.144.177,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,yes,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:16,103.207.38.59,623,,ipmi,2,45899,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:17,103.125.188.127,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:17,103.140.250.5,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:17,103.125.188.39,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:18,103.125.188.139,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:18,123.31.43.226,623,,ipmi,2,45899,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:19,103.140.250.13,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:19,103.99.1.81,623,,ipmi,2,135905,VN,THAI NGUYEN,THAI NGUYEN,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:20,103.141.139.97,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:20,103.141.139.105,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:20,103.141.139.73,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:20,103.125.188.101,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:21,103.125.188.31,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:22,103.141.139.203,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:23,113.190.49.111,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:23,103.141.139.173,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:23,118.69.164.196,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:23,118.68.218.116,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:23,103.125.188.109,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:23,118.69.239.137,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:24,103.104.120.25,623,static-ptr.vndata.vn,ipmi,2,135932,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:24,125.212.201.74,623,,ipmi,2,38731,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517312,,Communications
+8/1/2020 1:24,103.141.139.211,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:25,103.139.103.205,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:25,103.88.112.212,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 1:28,118.69.163.195,623,,ipmi,1.5,18403,VN,HA NOI,HANOI,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:28,103.141.139.69,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:28,103.141.138.16,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:28,103.88.112.213,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 1:28,103.139.103.30,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:29,103.125.188.55,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:29,103.141.139.87,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:29,103.88.113.94,623,,ipmi,2,24088,VN,HAI PHONG,HAI PHONG,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517312,,Communications
+8/1/2020 1:30,103.45.237.25,623,v103-45-237-25.hts.vn,ipmi,2,131388,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:30,103.74.120.52,623,,ipmi,2,135967,VN,HA NOI,HANOI,no,yes,yes,yes,yes,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:30,103.137.184.205,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:30,103.125.188.35,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:30,103.127.196.237,623,,ipmi,2,135932,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:31,103.125.188.21,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:31,103.140.250.24,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:31,103.141.144.116,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,yes,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:32,125.212.249.142,623,vedla.arbining.com,ipmi,2,3873,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 1:32,103.140.250.14,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:32,103.141.139.249,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:32,103.68.69.168,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:33,103.141.139.61,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:34,103.125.188.115,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:34,103.139.103.213,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:35,103.141.139.221,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:35,42.116.20.138,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:36,103.125.188.217,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:36,58.187.58.80,623,adsl-dynamic-pool-xxx.fpt.vn,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:36,103.140.250.16,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:37,103.125.188.213,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:37,103.141.139.225,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:37,103.141.139.253,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:38,103.141.139.119,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:38,103.141.139.165,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:38,210.2.88.93,623,,ipmi,2,24085,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:38,103.141.144.234,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:39,103.125.188.97,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:39,103.141.144.175,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,yes,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:39,103.141.139.121,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:39,103.125.188.49,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:40,14.225.11.71,623,static.vnpt.vn,ipmi,2,135905,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:41,210.211.127.208,623,,ipmi,2,38731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:41,103.125.188.141,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:41,118.68.218.126,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:41,103.125.188.203,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:42,103.141.138.8,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:43,103.125.188.143,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:43,103.140.250.27,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:44,123.16.33.130,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,yes,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:44,103.28.37.30,623,,ipmi,2,131353,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:45,103.139.103.214,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:45,124.158.5.76,623,,ipmi,2,38732,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,0,,Communications
+8/1/2020 1:45,113.160.214.194,623,static.vnpt.vn,ipmi,2,45899,VN,BAC NINH,BAC NINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:46,103.82.35.98,623,,ipmi,2,38733,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 1:46,103.141.139.213,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:47,103.70.30.241,623,maxhost.vn,ipmi,2,63761,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,333995,,Communications
+8/1/2020 1:47,103.78.91.49,623,,ipmi,2,131414,VN,HA NOI,HANOI,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:47,103.125.188.231,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:47,103.125.188.223,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:48,103.125.188.147,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:49,103.125.188.253,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:49,103.141.139.197,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:49,103.125.188.103,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:49,103.140.250.4,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:50,103.99.1.69,623,,ipmi,2,135905,VN,THAI NGUYEN,THAI NGUYEN,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:50,103.199.18.133,623,,ipmi,2,63734,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 1:50,113.176.82.168,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:50,103.141.138.15,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:51,103.141.144.236,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:52,118.68.218.125,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:53,103.139.103.211,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:54,103.127.196.54,623,,ipmi,2,135932,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:54,103.141.139.131,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:56,103.141.138.3,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:56,103.125.188.240,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:56,103.140.250.33,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:56,183.81.35.41,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:57,103.125.188.233,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:57,103.68.69.162,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:58,210.245.126.147,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 1:59,103.88.112.214,623,,ipmi,2,24088,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,517312,,Communications
+8/1/2020 1:59,103.141.139.183,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 1:59,103.125.188.129,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:00,103.140.250.32,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:01,103.141.139.207,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:01,103.141.138.4,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:03,103.140.250.23,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:04,103.141.139.179,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:04,103.125.188.33,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:06,103.125.188.113,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:06,103.141.139.79,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:06,103.125.188.93,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:08,103.141.139.75,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:08,103.199.17.142,623,,ipmi,2,63734,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:09,103.125.188.165,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:09,103.139.103.71,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:09,103.125.188.107,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:10,103.141.139.89,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:10,103.39.94.26,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:12,103.141.139.227,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:13,103.125.188.117,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:13,103.125.188.77,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:13,103.207.38.43,623,,ipmi,2,45899,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:16,171.235.17.81,623,dynamic-ip-adsl.viettel.vn,ipmi,2,7552,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 2:16,103.74.120.237,623,,ipmi,2,135967,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:17,43.239.223.105,623,dc223.kdata.vn,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:17,103.125.188.15,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:17,103.109.39.115,623,dc39.kdata.vn,ipmi,2,135942,VN,HAI PHONG,HAI PHONG,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:18,103.63.213.228,623,mirror.ehost.vn,ipmi,1.5,135920,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:18,103.141.139.133,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:19,103.141.139.191,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:21,103.140.250.21,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:21,61.14.236.196,623,,ipmi,2,63731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:21,118.68.218.117,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 2:22,103.141.139.113,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:23,103.125.188.125,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:23,103.125.188.189,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:23,103.140.250.40,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:23,103.141.139.195,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:24,103.125.188.61,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:24,171.244.16.124,623,,ipmi,2,38731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 2:24,103.141.144.123,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,yes,yes,no,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:24,103.140.250.2,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:27,103.133.101.253,623,,ipmi,2,55305,VN,NINH BINH,NINH BINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:29,103.141.139.217,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:29,103.141.139.111,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:30,103.125.188.133,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:30,103.98.148.19,623,,ipmi,2,135921,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:31,103.125.188.45,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:31,103.141.139.77,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:31,103.74.120.194,623,,ipmi,2,135967,VN,HA NOI,HANOI,no,no,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:32,103.141.139.151,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:32,123.30.238.139,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,no,yes,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 2:32,103.140.250.22,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:32,103.141.139.153,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:32,103.125.188.95,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:33,103.141.139.193,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:33,103.125.188.157,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:35,103.139.103.201,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:35,103.141.139.125,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:36,103.125.188.121,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:36,43.239.223.106,623,dc223.kdata.vn,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:36,103.125.188.135,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:36,103.125.188.209,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:37,103.89.86.198,623,,ipmi,2,63731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:39,43.239.223.247,623,dc223.kdata.vn,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:39,103.74.122.127,623,sv122127.bkns.vn,ipmi,2,135967,VN,HA NOI,HANOI,no,yes,yes,yes,yes,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:40,171.244.33.135,623,,ipmi,2,38731,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 2:40,210.2.88.25,623,,ipmi,2,24085,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:41,171.235.17.80,623,dynamic-ip-adsl.viettel.vn,ipmi,2,7552,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 2:41,103.125.188.211,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:43,61.14.236.197,623,,ipmi,2,63731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:43,103.99.1.33,623,,ipmi,2,135905,VN,THAI NGUYEN,THAI NGUYEN,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:46,103.139.103.210,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:48,103.141.139.99,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:49,103.125.188.73,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:51,118.69.81.135,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 2:51,103.141.139.149,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:51,103.127.196.41,623,,ipmi,2,135932,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:52,183.91.1.169,623,static.cmcti.vn,ipmi,2,45903,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,0,,Communications
+8/1/2020 2:53,103.141.139.247,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:54,103.125.188.17,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:56,42.117.7.226,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,yes,default,enabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 2:56,103.141.139.59,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:56,103.139.103.203,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:57,103.141.139.171,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:57,103.125.188.3,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:58,103.70.30.235,623,maxhost.vn,ipmi,2,63761,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,333995,,Communications
+8/1/2020 2:58,125.212.250.61,623,,ipmi,2,3873,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 2:58,103.125.188.25,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:59,210.2.88.50,623,,ipmi,2,24085,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:59,103.125.188.159,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 2:59,103.125.188.207,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:00,210.245.22.250,623,host-22-xx.hcm.fpt.vn,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:01,103.141.139.71,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:02,103.141.138.17,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:02,171.255.204.163,623,dynamic-adsl.viettel.vn,ipmi,2,7552,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 3:02,103.9.1.18,623,static.telehouse.com.vn,ipmi,2,131358,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:02,103.133.101.122,623,,ipmi,2,55305,VN,NINH BINH,NINH BINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:02,103.125.188.199,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:03,103.141.139.187,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:03,115.146.123.109,623,,ipmi,2,38732,VN,HA NOI,HANOI,no,no,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:03,103.141.139.95,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:03,103.141.139.115,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:04,103.140.250.3,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:05,103.141.144.231,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:05,103.125.188.91,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:05,124.158.9.51,623,,ipmi,2,38733,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:05,103.141.139.117,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:06,103.141.139.65,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:07,118.68.218.113,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:08,45.118.151.151,623,hosted-by.vonline.vn,ipmi,2,131367,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:09,103.141.139.63,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:10,103.125.188.41,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:10,103.139.103.72,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:10,116.193.77.174,623,podal.recentstudies.net,ipmi,2,24085,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:10,103.141.139.199,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:10,180.93.87.16,623,,ipmi,2,7602,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:11,103.125.188.29,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:12,103.141.139.139,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:12,171.255.200.99,623,dynamic-ip-adsl.viettel.vn,ipmi,2,7552,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517312,,Communications
+8/1/2020 3:12,210.211.110.249,623,,ipmi,2,38731,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:13,103.74.122.131,623,sv122131.bkns.vn,ipmi,2,135967,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:14,103.68.69.152,623,,ipmi,2,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:14,103.140.250.20,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:14,125.212.244.238,623,,ipmi,2,3873,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517312,,Communications
+8/1/2020 3:14,103.141.144.235,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:14,221.132.18.18,623,,ipmi,2,45899,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:14,123.31.42.117,623,static.vnpt.vn,ipmi,2,45899,VN,HA NOI,HANOI,no,yes,yes,yes,no,default,enabled,enabled,yes,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:15,103.141.139.251,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:16,103.141.139.175,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:17,103.125.188.205,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:18,103.74.121.139,623,sv121139.bkns.vn,ipmi,2,135967,VN,HA NOI,HANOI,no,no,yes,no,no,default,enabled,enabled,yes,no,yes,,,,,,,,,,0,,Communications
+8/1/2020 3:19,118.69.190.8,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:19,103.125.188.47,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:20,124.158.4.158,623,,ipmi,2,38732,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:20,210.245.23.85,623,host-23-xx.hcm.fpt.vn,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:21,103.141.139.145,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:22,103.125.188.87,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:23,103.125.188.235,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:24,103.81.86.211,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:25,103.125.188.23,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:26,103.238.213.133,623,103-238-213-133.static.bizmac.com,ipmi,2,131428,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,yes,yes,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:26,103.125.188.11,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:27,103.127.197.14,623,,ipmi,2,135932,VN,HO CHI MINH,THANH PHO HO CHI MINH,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:27,103.74.120.143,623,,ipmi,2,135967,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:27,103.125.188.111,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:28,45.117.165.95,623,,ipmi,2,45538,VN,HA NOI,HANOI,no,no,yes,no,no,default,disabled,disabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:28,103.125.188.7,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:29,103.141.139.127,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:29,103.141.138.11,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:29,103.140.250.9,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:30,103.141.139.83,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:30,103.125.188.81,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:31,103.125.188.137,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:32,103.125.188.37,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:32,103.140.250.12,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:33,103.141.144.232,623,,ipmi,2,18403,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:33,210.245.126.185,623,,ipmi,1.5,18403,VN,HO CHI MINH,THANH PHO HO CHI MINH,yes,no,yes,yes,no,-,enabled,enabled,no,yes,no,,,,,,,,,,517311,,Communications
+8/1/2020 3:33,103.140.250.7,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications
+8/1/2020 3:33,103.141.139.141,623,,ipmi,2,135905,VN,HA NOI,HANOI,no,no,no,no,no,default,disabled,enabled,yes,no,no,,,,,,,,,,0,,Communications

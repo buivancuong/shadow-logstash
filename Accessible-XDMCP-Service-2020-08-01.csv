@@ -1,0 +1,65 @@
+timestamp,ip,protocol,port,hostname,tag,asn,geo,region,city,naics,sic,opcode,reported_hostname,status,size
+8/1/2020 0:17,123.30.52.20,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns56,"1 user,  load: 0.1, 0.1, 0.1",52
+8/1/2020 0:18,123.30.52.45,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns26,"0 user,  load: 0.2, 0.2, 0.3",52
+8/1/2020 0:21,123.30.52.35,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns16,"0 user,  load: 0.3, 0.2, 0.5",52
+8/1/2020 0:26,123.30.52.37,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns18,"0 user,  load: 0.6, 0.3, 0.4",52
+8/1/2020 0:33,222.255.124.89,udp,177,hcm-cp89.vnn.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-cp88,"1 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 0:34,14.225.5.235,udp,177,,xdmcp,135905,VN,HA NOI,HANOI,517311,,Willing,cbx2,Linux 2.6.32-504.el6.x86_64,43
+8/1/2020 0:36,123.30.52.28,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns40,"0 user,  load: 0.2, 0.3, 0.4",52
+8/1/2020 0:46,103.42.57.62,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,0,,Willing,sapsrv,Linux 4.12.14-23-default,42
+8/1/2020 0:50,222.255.124.86,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-cp86,"1 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 0:54,14.225.5.233,udp,177,,xdmcp,135905,VN,HA NOI,HANOI,517311,,Willing,cbx1,Linux 2.6.32-504.el6.x86_64,43
+8/1/2020 0:55,123.30.52.76,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns52,"0 user,  load: 0.2, 0.2, 0.3",52
+8/1/2020 0:59,123.30.52.36,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns17,"0 user,  load: 0.1, 0.5, 0.5",52
+8/1/2020 1:06,123.30.52.86,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns86,"0 user,  load: 1.4, 1.3, 1.3",52
+8/1/2020 1:11,123.30.52.74,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,my-zone1,"0 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 1:14,123.30.52.43,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns24,"0 user,  load: 0.2, 0.2, 0.3",52
+8/1/2020 1:16,203.210.143.5,udp,177,static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,0,,Willing,PNVDB01,Linux 2.6.32-300.10.1.el5uek,47
+8/1/2020 1:21,123.30.52.41,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns22,"0 user,  load: 0.3, 0.2, 0.3",50
+8/1/2020 1:22,123.30.52.44,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns25,"0 user,  load: 0.2, 0.2, 0.2",50
+8/1/2020 1:25,123.30.52.49,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdnszone7,"0 user,  load: 0.1, 0.1, 0.1",55
+8/1/2020 1:25,123.30.52.117,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns117,"0 user,  load: 1.4, 1.3, 1.3",53
+8/1/2020 1:26,123.30.52.71,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns51,"0 user,  load: 0.1, 0.1, 0.1",52
+8/1/2020 1:29,123.30.52.39,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns20,"0 user,  load: 0.2, 0.2, 0.2",50
+8/1/2020 1:30,203.162.233.172,udp,177,static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,n233m172,"1 user,  load: 0.2, 0.2, 0.2",48
+8/1/2020 1:32,222.255.124.88,udp,177,hcm-cp88.vnn.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-cp88,"1 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 1:34,103.42.57.57,udp,177,tsequal.dovesour.net,xdmcp,45899,VN,HA NOI,HANOI,0,,Willing,saitexsrv,Linux 3.12.49-11-default,45
+8/1/2020 1:35,123.30.52.81,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns81,"0 user,  load: 2.6, 2.8, 2.8",52
+8/1/2020 1:36,203.162.4.222,udp,177,hcm-222.vnn.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-222,"0 user,  load: 0.0, 0.0, 0.0",47
+8/1/2020 1:38,123.30.52.75,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,my-zone2,"0 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 1:45,123.30.52.31,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,my-zone2,"0 user,  load: 0.1, 0.1, 0.1",48
+8/1/2020 1:53,123.30.52.38,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns19,"0 user,  load: 1.1, 1.1, 0.7",50
+8/1/2020 2:02,123.30.52.70,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns50,"0 user,  load: 0.1, 0.1, 0.1",52
+8/1/2020 2:02,125.212.225.23,udp,177,,xdmcp,38731,VN,HA NOI,HANOI,517312,,Willing,tmt02,Linux 2.6.32-754.31.1.el6.x86_64,49
+8/1/2020 2:07,123.29.0.81,udp,177,123.29.0.0.static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,HCM-SAM-O,"2 users  load: 1.3, 1.3, 1.2",49
+8/1/2020 2:07,210.211.124.105,udp,177,,xdmcp,38731,VN,HO CHI MINH,THANH PHO HO CHI MINH,0,,Willing,vtv,Linux 2.6.18-300.el5,35
+8/1/2020 2:08,123.30.52.79,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns79,"0 user,  load: 2.6, 2.8, 2.9",52
+8/1/2020 2:10,123.30.52.56,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,authorative.vnn.vn,"0 user,  load: 0.1, 0.1, 0.2",58
+8/1/2020 2:14,203.162.4.36,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-36,"0 user,  load: 0.1, 0.1, 0.1",46
+8/1/2020 2:19,123.30.52.119,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns119,"0 user,  load: 2.9, 3.0, 2.9",53
+8/1/2020 2:20,123.30.52.52,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachednszone4,"0 user,  load: 0.8, 0.6, 0.5",53
+8/1/2020 2:22,123.30.52.55,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdnszone6,"0 user,  load: 0.2, 0.3, 0.2",55
+8/1/2020 2:24,123.30.52.78,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns78,"0 user,  load: 4.6, 3.7, 3.2",52
+8/1/2020 2:33,123.30.52.42,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns23,"0 user,  load: 0.3, 0.4, 0.5",52
+8/1/2020 2:42,123.29.0.82,udp,177,123.29.0.0.static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,HCM-SAM-D,"0 user,  load: 0.0, 0.0, 0.0",49
+8/1/2020 2:48,203.162.233.185,udp,177,static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,n233m185,"2 users  load: 1.3, 1.3, 1.3",48
+8/1/2020 2:49,171.244.45.153,udp,177,,xdmcp,38731,VN,HA NOI,HANOI,517312,,Willing,saprouter1,Linux 4.4.121-92.95-default,49
+8/1/2020 2:50,203.162.96.66,udp,177,,xdmcp,7643,VN,HA NOI,HANOI,517311,,Willing,ns2vdc2,"0 user,  load: 0.0, 0.0, 0.0",47
+8/1/2020 2:58,123.30.52.77,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns53,"0 user,  load: 0.3, 0.2, 0.2",52
+8/1/2020 3:00,14.225.5.38,udp,177,,xdmcp,135905,VN,HA NOI,HANOI,517311,,Willing,home365_02,Linux 2.6.32-504.el6.x86_64,49
+8/1/2020 3:06,123.30.52.46,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns27,"0 user,  load: 0.8, 0.4, 0.3",50
+8/1/2020 3:07,203.162.92.142,udp,177,static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,VNPMD01,"0 user,  load: 0.4, 0.4, 0.4",47
+8/1/2020 3:09,1.55.144.239,udp,177,,xdmcp,18403,VN,KHANH HOA,NHA TRANG,517311,,Willing,vofs00,Linux 3.10.0-862.el7.x86_64,45
+8/1/2020 3:11,203.162.233.199,udp,177,static.vnpt.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,ans,"0 user,  load: 1.0, 1.0, 1.0",43
+8/1/2020 3:11,123.30.52.80,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns80,"0 user,  load: 3.0, 3.0, 3.0",52
+8/1/2020 3:12,203.162.4.111,udp,177,hcm-111.vnn.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-111,"0 user,  load: 0.5, 0.5, 0.5",47
+8/1/2020 3:12,123.30.52.40,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachedns21,"0 user,  load: 0.4, 0.4, 0.4",50
+8/1/2020 3:26,123.30.52.51,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachednszone2,"0 user,  load: 0.2, 0.2, 0.3",53
+8/1/2020 3:26,123.30.52.22,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,my-zone4,"0 user,  load: 0.3, 0.3, 0.3",48
+8/1/2020 3:30,203.162.4.221,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-221,"0 user,  load: 0.5, 0.5, 0.5",47
+8/1/2020 3:36,183.91.16.70,udp,177,hcm.ns1.cmcti.vn,xdmcp,45903,VN,HO CHI MINH,THANH PHO HO CHI MINH,0,,Willing,bnx0,"0 user,  load: 0.6, 0.6, 0.6",44
+8/1/2020 3:36,123.30.52.33,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns30,"0 user,  load: 0.2, 0.2, 0.2",52
+8/1/2020 3:41,123.30.52.34,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachingdns32,"0 user,  load: 0.1, 0.2, 0.2",52
+8/1/2020 3:49,123.30.52.53,udp,177,vnptnet.vn,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,cachednszone4,"0 user,  load: 0.5, 0.4, 0.4",53
+8/1/2020 3:58,123.30.52.30,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,my-zone4,"0 user,  load: 0.6, 0.7, 0.5",48
+8/1/2020 4:02,222.255.124.87,udp,177,,xdmcp,45899,VN,HA NOI,HANOI,517311,,Willing,hcm-cp86,"1 user,  load: 0.1, 0.1, 0.1",48

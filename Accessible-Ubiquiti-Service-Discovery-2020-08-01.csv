@@ -1,0 +1,42 @@
+"timestamp","ip","protocol","port","hostname","tag","asn","geo","region","city","naics","sic","mac","radioname","essid","modelshort","modelfull","firmware","size"
+"2020-08-01 01:21:07","115.79.31.191","udp",10001,,"ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"f09fc20be5e4","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.4939092.161214.0702",107
+"2020-08-01 01:21:36","210.245.10.44","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"788a2047e48c","INTERNET-LAB8",,"ERPro-8",,"EdgeRouter.ER-e200.v1.3.0.4605996.131014.1811",146
+"2020-08-01 01:24:06","113.179.34.28","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"802aa8f15a12","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.1.4977353.170426.0429",113
+"2020-08-01 01:34:11","42.116.241.118","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"788a207d39bf","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 01:35:46","123.16.187.96","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"18e82947f42a","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 01:44:49","14.177.131.143","udp",1194,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"18e82947eba2","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",127
+"2020-08-01 01:53:07","123.24.206.117","udp",1159,,"ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"f09fc218ede7","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.1.4977353.170426.0429",126
+"2020-08-01 02:06:38","27.79.102.201","udp",10001,"localhost","ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"788a20bd2e37","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 02:06:46","113.161.226.49","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","LONG AN","LONG AN",517311,,"802aa88f5b6a","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.0.4901118.160804.1131",125
+"2020-08-01 02:09:22","113.160.206.228","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HAI PHONG","HAI PHONG",517311,,"7483c21eb68c","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 02:12:50","27.72.102.60","udp",10001,"dynamic-ip-adsl.viettel.vn","ubiquiti",7552,"VN","HA NOI","HANOI",517312,,"18e82947eba2","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",127
+"2020-08-01 02:12:55","14.237.31.177","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517311,,"f09fc20bdca2","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",122
+"2020-08-01 02:22:31","42.116.22.200","udp",57725,,"ubiquiti",18403,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517311,,"0025903a787e","FTI-OSS NVR",,"UniFi Video",,"NVR.x86_64.3.10.12.36bd06.200515.0739",115
+"2020-08-01 02:33:18","117.1.87.185","udp",10001,"localhost","ubiquiti",7552,"VN","HA NOI","HANOI",517312,,"788a2047ddbc","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.1.4977353.170426.0429",126
+"2020-08-01 02:38:43","45.118.136.17","udp",10001,,"ubiquiti",45557,"VN","BINH DUONG","THU DAU MOT",0,,"802aa8dfed3e","ubnt",,"ER-X-SFP",,"EdgeRouter.ER-e50.v1.7.1.4821926.151103.1114",111
+"2020-08-01 02:44:15","14.177.43.234","udp",10001,,"ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"18e8295e7a30","hanoi-VT",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",113
+"2020-08-01 02:49:42","14.230.49.173","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517311,,"f09fc210426a","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.4939093.161214.0705",112
+"2020-08-01 02:53:36","113.160.248.176","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","KHANH HOA","NHA TRANG",517311,,"44d9e79b9153","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.7.0.4783374.150622.1534",125
+"2020-08-01 03:19:11","14.248.130.155","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"802aa84cf152","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.0.4901118.160804.1131",125
+"2020-08-01 03:24:25","120.72.112.3","udp",10001,,"ubiquiti",24085,"VN","HO CHI MINH","THANH PHO HO CHI MINH",0,,"802aa88f29b8","vnhcmcrtrvpn01",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.4939098.161214.0733",134
+"2020-08-01 03:29:24","123.24.178.190","udp",10001,,"ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"b4fbe451c46f","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 03:34:01","115.75.4.100","udp",10001,,"ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"7483c272f0f7","Home",,"UCK-G2-PLUS",,"unifi-protect.arm64.v1.13.2.0.0.0",97
+"2020-08-01 03:37:25","171.229.243.239","udp",10001,,"ubiquiti",7552,"VN","HA NOI","HANOI",517312,,"18e8295e8126","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",135
+"2020-08-01 03:37:34","14.189.244.199","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"788a2041ab93","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.1.4977353.170426.0429",165
+"2020-08-01 03:40:38","113.161.236.121","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","LONG AN","LONG AN",517311,,"802aa8f06b03","ubnt",,"ERPoe-5",,"EdgeRouter.ER-e100.v1.9.1.4939093.161214.0705",137
+"2020-08-01 03:43:56","14.161.49.224","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517311,,"fcecda4e3757","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.4939098.161214.0733",111
+"2020-08-01 03:46:49","14.177.230.153","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"f09fc20be67a","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",122
+"2020-08-01 04:04:45","118.70.124.14","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"f09fc218ede7","ubnt",,"ERPro-8",,"EdgeRouter.ER-e200.v1.9.1.1.4977353.170426.0429",126
+"2020-08-01 04:05:12","115.79.35.86","udp",10001,"adsl.viettel.vn","ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"44d9e7401e7f","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.7.0.4783374.150622.1534",125
+"2020-08-01 04:06:04","42.113.131.120","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"fcecda4a0f4f","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.4939093.161214.0705",125
+"2020-08-01 04:17:16","118.71.89.132","udp",10001,"ip-address-pool-xxx.fpt.vn","ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"b4fbe4b16cc5","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 04:24:55","27.74.187.52","udp",10001,"localhost","ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"788a207d4271","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 04:30:53","14.238.8.140","udp",10001,,"ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"7483c21add91","Home",,"UCK-G2-PLUS",,"unifi-protect.arm64.v1.13.2.0.0.0",97
+"2020-08-01 04:52:09","42.117.195.30","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"f09fc26bda8e","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 04:57:32","42.113.175.244","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"18e8292ea2ef","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 05:00:21","27.72.146.68","udp",10001,"dynamic-ip-adsl.viettel.vn","ubiquiti",7552,"VN","HA NOI","HANOI",517312,,"18e8292e9347","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",109
+"2020-08-01 05:00:53","27.78.86.5","udp",1060,"localhost","ubiquiti",7552,"VN","HO CHI MINH","THANH PHO HO CHI MINH",517312,,"788a20ba87ef","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",122
+"2020-08-01 05:02:29","14.177.118.154","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"7483c21eb6e3","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 05:06:10","14.248.31.21","udp",10001,"static.vnpt.vn","ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"7483c21eb812","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 05:06:37","118.68.121.13","udp",10001,,"ubiquiti",18403,"VN","HA NOI","HANOI",517311,,"788a2046ddd2","ubnt",,"ERLite-3",,"EdgeRouter.ER-e100.v1.9.1.1.4977347.170426.0359",114
+"2020-08-01 05:11:57","123.24.178.47","udp",1024,,"ubiquiti",45899,"VN","HA NOI","HANOI",517311,,"18e8295e8126","ubnt",,"ER-X",,"EdgeRouter.ER-e50.v1.9.1.1.4977602.170427.0113",135
