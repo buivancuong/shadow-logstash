@@ -25,20 +25,12 @@
             "SrcIP_RegionName":		{"type":"keyword"},
             
             "Action":				{"type":"keyword"},
-			"CreationTime":			{"type":"keyword"},
-			"ClusterID":			{"type":"keyword"},
-			"FreeDisk":             {"type":"keyword"},
-			"HostName":             {"type":"keyword"},
-			"LiveNodes":			{"type":"keyword"},
-			"NameNodeAddress":		{"type":"keyword"},
-			"Protocol":				{"type":"keyword"},
-			"ServerType":			{"type":"keyword"},
+            "CreationTime":			{"type":"keyword"},
+            "HostName":             {"type":"keyword"},
+            "Protocol":				{"type":"keyword"},
+            "Response":				{"type":"keyword"},
             "SrcPort":				{"type":"keyword"},
-			"Tag":                  {"type":"keyword"},
-			"TotalDisk":			{"type":"keyword"},
-			"UsedDisk":             {"type":"keyword"},
-			"Version":              {"type":"keyword"},
-			"VolumeInfo":			{"type":"keyword"}
+            "Tag":                  {"type":"keyword"}
 		}
 	}
 }
