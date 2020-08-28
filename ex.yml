@@ -1,0 +1,45 @@
+- pipeline.id: csv_blacklist
+  config.string: |
+    input {
+      file {
+        file_completed_action => "log_and_delete"
+        file_completed_log_path => "/var/log/logstash/completed.log"
+        file_sort_by => "path"
+        mode => "read"
+        path => "/var/log/uploaded/blacklist*.csv"
+        sincedb_clean_after => 0.125
+        sincedb_path => "/dev/null"
+      }
+    }
+    filter {
+      if [message] =~ /^[,]+\r$/ { drop {} }
+      csv {
+        skip_empty_rows => true
+        columns => [
+          "LogTime","SrcIP","Src","PublicSource","Reason","SrcIP_ASN","SrcIP_CountryCode2",
+          "SrcIP_RegionName","SrcIP_CityName","SrcIP_NAICS","SrcIP_SIC","SrcIP_Sector","OrganizationName"
+        ]
+      }
+      if "LogTime" == "timestamp" { drop {} }
+      grok { match => { "LogTime" => "%{DATA:Year}-%{DATA:Month}-%{DATA:Day} %{DATA:Hour}:%{DATA:Minute}:%{NOTSPACE:Second}" } }
+      mutate { gsub => ["LogTime", " ", "/"] add_tag => ["2022060401"] }
+      grok { match => { "path" => "/var/log/uploaded/%{GREEDYDATA:NewFileName}" } }
+      ruby { code => "event.to_hash.each { |k, v| event.set(k, '-') if v == nil }" }
+      if [SrcIP] == "-" { mutate { replace => { "SrcIP" => "0.0.0.0" } } }
+      mutate { remove_field => ["host"] }
+    }
+    output {
+      if "2022060401" in [tags] {
+        elasticsearch {
+          hosts => ["localhost:8686"]
+          manage_template => false
+          index => "incident.blacklist"
+          template => "/etc/logstash/template.d/incident.blacklist.json"
+          http_compression => true
+          ssl => true
+          ssl_certificate_verification => false
+          user => "logstash_user"
+          password => "Logst4sh@123"
+        }
+      }
+    }

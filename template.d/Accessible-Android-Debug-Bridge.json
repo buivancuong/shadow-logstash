@@ -26,11 +26,11 @@
             
             "Action":				{"type":"keyword"},
             "CreationTime":			{"type":"keyword"},
-            "Device":               {"type":"keyword"},
+            "Device":               {"type":"keyword","fields":{"ngram":{"type":"text"}}},
             "Features":             {"type":"keyword"},
-            "HostName":             {"type":"keyword"},
-            "Model":                {"type":"keyword"},
-            "Name":                 {"type":"keyword"},
+            "HostName":             {"type":"keyword","fields":{"ngram":{"type":"text"}}},
+            "Model":                {"type":"keyword","fields":{"ngram":{"type":"text"}}},
+            "Name":                 {"type":"keyword","fields":{"ngram":{"type":"text"}}},
             "Protocol":				{"type":"keyword"},
             "SrcPort":				{"type":"keyword"},
             "Tag":                  {"type":"keyword"}
