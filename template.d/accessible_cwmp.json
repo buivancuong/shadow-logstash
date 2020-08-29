@@ -22,25 +22,24 @@
 
 			"SrcIP":				{"type":"ip"},
 			"SrcIP_CityName":		{"type":"keyword"},
-            "SrcIP_RegionName":		{"type":"keyword"},
-            
-            "Action":				{"type":"keyword"},
-            "CreationTime":			{"type":"keyword"},
+			"SrcIP_RegionName":		{"type":"keyword"},
+
 			"Connection":			{"type":"keyword"},
-			"HostName":             {"type":"keyword"},
-			"HTTPContentLength":	{"type":"keyword"},
-			"HTTPContentType":      {"type":"keyword"},
-			"HTTPCookie":           {"type":"keyword"},
-			"HTTPDate":             {"type":"keyword"},
-            "HTTPResponseCode":     {"type":"keyword"},
-            "HTTPReason":           {"type":"keyword"},
-            "HTTPVer":              {"type":"keyword"},
+			"ContentLength":		{"type":"keyword"},
+			"ContentType":			{"type":"keyword"},
+			"Date":					{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
+			"HTTP":					{"type":"keyword"},
+			"HTTPCode":				{"type":"keyword"},
+			"HTTPReason":			{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
 			"Protocol":				{"type":"keyword"},
+			"SetCookies":			{"type":"keyword"},
 			"Server":				{"type":"keyword"},
-            "SrcPort":				{"type":"keyword"},
-			"Tag":                  {"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"},
 			"TransferEncoding":		{"type":"keyword"},
-            "WWWAuthenticate":      {"type":"keyword"}
+			"WWWAuthenticate":		{"type":"keyword"}
 		}
 	}
 }
