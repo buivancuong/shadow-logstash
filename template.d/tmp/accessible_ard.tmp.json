@@ -1,0 +1,22 @@
+{
+    "properties":{
+        "@timestamp":			{"type":"date"},
+        "@version":				{"type":"keyword"},
+        "message":				{"type":"keyword"},
+        "tags":					{"type":"keyword"},
+        "LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+        "SrcIP":				{"type":"ip"},
+        "SrcIP_CityName":		{"type":"keyword"},
+        "SrcIP_RegionName":		{"type":"keyword"},
+
+        "HostName":				{"type":"keyword"},
+        "MachineName":			{"type":"keyword"},
+        "Orgs":					{"type":"keyword"},
+        "Protocol":				{"type":"keyword"},
+        "ResponseSize":			{"type":"keyword"},
+        "SrcIP_ASN":			{"type":"keyword"},
+        "SrcPort":				{"type":"keyword"},
+        "Tag":					{"type":"keyword"}
+    }
+}

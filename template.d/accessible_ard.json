@@ -22,16 +22,16 @@
 
 			"SrcIP":				{"type":"ip"},
 			"SrcIP_CityName":		{"type":"keyword"},
-            "SrcIP_RegionName":		{"type":"keyword"},
-            
-            "Action":				{"type":"keyword"},
-            "CreationTime":			{"type":"keyword"},
-            "HostName":             {"type":"keyword"},
-            "MachineType":          {"type":"keyword"},
-            "Protocol":				{"type":"keyword"},
-            "ResponseSize":         {"type":"keyword"},
-            "SrcPort":				{"type":"keyword"},
-            "Tag":                  {"type":"keyword"}
+			"SrcIP_RegionName":		{"type":"keyword"},
+
+			"HostName":				{"type":"keyword"},
+			"MachineName":			{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
+			"Protocol":				{"type":"keyword"},
+			"ResponseSize":			{"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"},
+			"Tag":					{"type":"keyword"}
 		}
 	}
 }
