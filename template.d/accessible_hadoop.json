@@ -22,22 +22,19 @@
 
 			"SrcIP":				{"type":"ip"},
 			"SrcIP_CityName":		{"type":"keyword"},
-            "SrcIP_RegionName":		{"type":"keyword"},
-            
-            "Action":				{"type":"keyword"},
-			"CreationTime":			{"type":"keyword"},
+			"SrcIP_RegionName":		{"type":"keyword"},
+			
 			"ClusterID":			{"type":"keyword"},
-			"FreeDisk":             {"type":"keyword"},
-			"HostName":             {"type":"keyword"},
+			"FreeDisk":				{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
 			"LiveNodes":			{"type":"keyword"},
 			"NameNodeAddress":		{"type":"keyword"},
-			"Protocol":				{"type":"keyword"},
 			"ServerType":			{"type":"keyword"},
-            "SrcPort":				{"type":"keyword"},
-			"Tag":                  {"type":"keyword"},
-			"TotalDisk":			{"type":"keyword"},
-			"UsedDisk":             {"type":"keyword"},
-			"Version":              {"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"},
+			"TotalDIsk":			{"type":"keyword"},
+			"UsedDisk":				{"type":"keyword"},
+			"Versions":				{"type":"keyword"},
 			"VolumeInfo":			{"type":"keyword"}
 		}
 	}
