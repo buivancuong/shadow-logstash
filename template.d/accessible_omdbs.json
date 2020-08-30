@@ -22,15 +22,24 @@
 
 			"SrcIP":				{"type":"ip"},
 			"SrcIP_CityName":		{"type":"keyword"},
-            "SrcIP_RegionName":		{"type":"keyword"},
-            
-            "Action":				{"type":"keyword"},
-            "CreationTime":			{"type":"keyword"},
-            "HostName":             {"type":"keyword"},
-            "Protocol":				{"type":"keyword"},
-            "Response":				{"type":"keyword"},
-            "SrcPort":				{"type":"keyword"},
-            "Tag":                  {"type":"keyword"}
+			"SrcIP_RegionName":		{"type":"keyword"},
+			
+			"Allocator":			{"type":"keyword"},
+			"Bits":					{"type":"keyword"},
+			"GifVersion":			{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
+			"JavaScriptEngine":		{"type":"keyword"},
+			"MaxBSONObjectSize":	{"type":"keyword"},
+			"OpenSSLVerison":		{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
+			"Protocol":				{"type":"keyword"},
+			"Sector":				{"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"},
+			"SysInfo":				{"type":"keyword"},
+			"Tag":					{"type":"keyword"},
+			"Version":				{"type":"keyword"},
+			"Visible_DBs":			{"type":"keyword"}
 		}
 	}
 }
