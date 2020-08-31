@@ -1,0 +1,21 @@
+{
+    "properties":{
+        "@timestamp":			{"type":"date"},
+        "@version":				{"type":"keyword"},
+        "message":				{"type":"keyword"},
+        "tags":					{"type":"keyword"},
+        "LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+        "SrcIP":				{"type":"ip"},
+        "SrcIP_CityName":		{"type":"keyword"},
+        "SrcIP_RegionName":		{"type":"keyword"},
+        
+        "HostName":             {"type":"custom"},
+        "Modules":              {"type":"custom"},
+        "Orgs":                 {"type":"custom"},
+        "Password":             {"type":"custom"},
+        "Protocol":             {"type":"custom"},
+        "SrcPort":              {"type":"custom"},
+        "Tag":                  {"type":"custom"}
+    }
+}
