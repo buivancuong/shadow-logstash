@@ -1,0 +1,16 @@
+- pipeline.id: csv_blacklist
+  path.config: "/etc/logstash/conf.d/csv_blacklist.conf"
+- pipeline.id: csv_csv_botnet
+  path.config: "/etc/logstash/conf.d/csv_botnet.conf"
+- pipeline.id: csv_ddos
+  path.config: "/etc/logstash/conf.d/csv_ddos.conf"
+- pipeline.id: csv_deface
+  path.config: "/etc/logstash/conf.d/csv_deface.conf"
+- pipeline.id: csv_malware
+  path.config: "/etc/logstash/conf.d/csv_malware.conf"
+- pipeline.id: csv_phishing
+  path.config: "/etc/logstash/conf.d/csv_phishing.conf"
+- pipeline.id: accessible_adb
+  path.config: "/etc/logstash/conf.d/accessible_adb.conf"
+- pipeline.id: accessible_afp
+  path.config: "/etc/logstash/conf.d/accessible_afp.conf"
