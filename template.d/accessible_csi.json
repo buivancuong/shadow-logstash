@@ -24,6 +24,7 @@
 			"SrcIP_CityName":		{"type":"keyword"},
 			"SrcIP_RegionName":		{"type":"keyword"},
 
+			"FileName":				{"type":"keyword"},
 			"HostName":				{"type":"keyword"},
 			"Orgs":					{"type":"keyword"},
 			"Protocol":				{"type":"keyword"},
