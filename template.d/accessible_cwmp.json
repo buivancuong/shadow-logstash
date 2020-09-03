@@ -28,6 +28,7 @@
 			"ContentLength":		{"type":"keyword"},
 			"ContentType":			{"type":"keyword"},
 			"Date":					{"type":"keyword"},
+			"FileName":				{"type":"keyword"},
 			"HostName":				{"type":"keyword"},
 			"HTTP":					{"type":"keyword"},
 			"HTTPCode":				{"type":"keyword"},
