@@ -24,4 +24,6 @@
   path.config: "/etc/logstash/conf.d/accessible_cwmp.conf"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
+- pipeline.id: accessible_ftps
+  path.config: "/etc/logstash/conf.d/accessible_ftps.conf"
 
