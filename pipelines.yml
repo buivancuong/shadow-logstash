@@ -14,3 +14,14 @@
   path.config: "/etc/logstash/conf.d/accessible_adb.conf"
 - pipeline.id: accessible_afp
   path.config: "/etc/logstash/conf.d/accessible_afp.conf"
+- pipeline.id: accessible_ard
+  path.config: "/etc/logstash/conf.d/accessible_ard.conf"
+- pipeline.id: accessible_coap
+  path.config: "/etc/logstash/conf.d/accessible_coap.conf"
+- pipeline.id: accessible_csi
+  path.config: "/etc/logstash/conf.d/accessible_csi.conf"
+- pipeline.id: accessible_cwmp
+  path.config: "/etc/logstash/conf.d/accessible_cwmp.conf"
+- pipeline.id: drone_botnet
+  path.config: "/etc/logstash/conf.d/drone_botnet.conf"
+
