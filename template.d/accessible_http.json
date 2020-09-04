@@ -26,6 +26,7 @@
 			
 			"Connection":			{"type":"keyword"},
 			"ContentLength":		{"type":"keyword"},
+			"FileName":				{"type":"keyword"},
 			"HostName":				{"type":"keyword"},
 			"HTTP":					{"type":"keyword"},
 			"HTTPCode":				{"type":"keyword"},
