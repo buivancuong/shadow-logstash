@@ -11,6 +11,7 @@
         "SrcIP_RegionName":		{"type":"keyword"},
         
         "ClusterID":			{"type":"keyword"},
+        "FileName":             {"type":"keyword"},
         "FreeDisk":				{"type":"keyword"},
         "HostName":				{"type":"keyword"},
         "LiveNodes":			{"type":"keyword"},
