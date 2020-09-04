@@ -19,6 +19,7 @@
         "CertSerialNumber":             {"type":"keyword"},
         "CertValid":                    {"type":"keyword"},
         "CipherSuite":                  {"type":"keyword"},
+        "FileName":                     {"type":"keyword"},
         "HandShake":                    {"type":"keyword"},
         "HostName":				        {"type":"keyword"},
         "IssuerEmailAddress":           {"type":"keyword"},
