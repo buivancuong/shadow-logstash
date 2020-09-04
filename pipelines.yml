@@ -26,4 +26,5 @@
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: accessible_ftps
   path.config: "/etc/logstash/conf.d/accessible_ftps.conf"
-
+- pipeline.id: accessible_hadoop
+  path.config: "/etc/logstash/conf.d/accessible_hadoop.conf"
