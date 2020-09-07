@@ -32,3 +32,5 @@
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce
   path.config: "/etc/logstash/conf.d/drone_bruteforce.conf"
+- pipeline.id: drone_sinkhole
+  path.config: "/etc/logstash/conf.d/drone_sinkhole.conf"
