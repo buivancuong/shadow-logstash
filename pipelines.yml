@@ -34,3 +34,5 @@
   path.config: "/etc/logstash/conf.d/drone_bruteforce.conf"
 - pipeline.id: drone_sinkhole
   path.config: "/etc/logstash/conf.d/drone_sinkhole.conf"
+- pipeline.id: drone_sinkhole_ipv6
+  path.config: "/etc/logstash/conf.d/drone_sinkhole_ipv6.conf"
