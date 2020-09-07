@@ -30,3 +30,5 @@
   path.config: "/etc/logstash/conf.d/accessible_hadoop.conf"
 - pipeline.id: accessible_http
   path.config: "/etc/logstash/conf.d/accessible_http.conf"
+- pipeline.id: drone_bruteforce
+  path.config: "/etc/logstash/conf.d/drone_bruteforce.conf"

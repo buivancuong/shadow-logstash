@@ -1,0 +1,34 @@
+{
+    "properties":{
+        "@timestamp":			{"type":"date"},
+        "@version":				{"type":"keyword"},
+        "message":				{"type":"keyword"},
+        "tags":					{"type":"keyword"},
+        "LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+        "SrcIP":				{"type":"ip"},
+        "SrcIP_CityName":		{"type":"keyword"},
+        "SrcIP_RegionName":		{"type":"keyword"},
+
+        "ClientVersion":		{"type":"keyword"},
+        "DstIP":				{"type":"keyword"},
+        "DstIP_ASN":			{"type":"keyword"},
+        "DstIP_DNS":			{"type":"keyword"},
+        "DstIPGeo":				{"type":"keyword"},
+        "DstPort":				{"type":"keyword"},
+        "DstSector":			{"type":"keyword"},
+        "EndTime":				{"type":"keyword"},
+        "HostName":				{"type":"keyword"},
+        "Orgs":					{"type":"keyword"},
+        "Password":				{"type":"keyword"},
+        "PayloadMD5":			{"type":"keyword"},
+        "PayloadURL":			{"type":"keyword"},
+        "PublicSource":			{"type":"keyword"},
+        "Service":				{"type":"keyword"},
+        "SrcIP_ASN":			{"type":"keyword"},
+        "SrcPort":				{"type":"keyword"},
+        "SrcSector":			{"type":"keyword"},
+        "StartTime":			{"type":"keyword"},
+        "UserName":				{"type":"keyword"}
+    }
+}
