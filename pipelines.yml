@@ -38,6 +38,8 @@
   path.config: "/etc/logstash/conf.d/accessible_rsync.conf"
 - pipeline.id: accessible_smb
   path.config: "/etc/logstash/conf.d/accessible_smb.conf"
+- pipeline.id: accessible_telnet
+  path.config: "/etc/logstash/conf.d/accessible_telnet.conf"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce
