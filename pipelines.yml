@@ -30,6 +30,8 @@
   path.config: "/etc/logstash/conf.d/accessible_http.conf"
 - pipeline.id: accessible_omdbs
   path.config: "/etc/logstash/conf.d/accessible_omdbs.conf"
+- pipeline.id: accessible_radmin
+  path.config: "/etc/logstash/conf.d/accessible_radmin.conf"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce

@@ -22,15 +22,19 @@
 
 			"SrcIP":				{"type":"ip"},
 			"SrcIP_CityName":		{"type":"keyword"},
-            "SrcIP_RegionName":		{"type":"keyword"},
-            
-            "HostName":             {"type":"keyword"},
-            "Orgs":                 {"type":"keyword"},
-            "Protocol":             {"type":"keyword"},
-            "SrcIP_ASN":            {"type":"keyword"},
-            "SrcPort":              {"type":"keyword"},
-            "Tag":                  {"type":"keyword"},
-            "Version":              {"type":"keyword"}
+			"SrcIP_RegionName":		{"type":"keyword"},
+			"DstIP":				{"type":"ip"},
+			"DstIP_ASN":			{"type":"keyword"},
+			"DstIPGeo":				{"type":"keyword"},
+
+			"FileName":				{"type":"keyword"},
+			"HostName":             {"type":"keyword"},
+			"Orgs":                 {"type":"keyword"},
+			"Protocol":             {"type":"keyword"},
+			"SrcIP_ASN":            {"type":"keyword"},
+			"SrcPort":              {"type":"keyword"},
+			"Tag":                  {"type":"keyword"},
+			"Version":              {"type":"keyword"}
 		}
 	}
 }

@@ -9,6 +9,9 @@
         "SrcIP":				{"type":"ip"},
         "SrcIP_CityName":		{"type":"keyword"},
         "SrcIP_RegionName":		{"type":"keyword"},
+        "DstIP":				{"type":"ip"},
+        "DstIP_ASN":			{"type":"keyword"},
+        "DstIPGeo":				{"type":"keyword"},
         
         "Allocator":			{"type":"keyword"},
         "Bits":					{"type":"keyword"},
