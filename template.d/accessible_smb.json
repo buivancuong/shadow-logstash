@@ -28,13 +28,11 @@
 			"DstIPGeo":				{"type":"keyword"},
 
 			"FileName":				{"type":"keyword"},
-			"HostName":             {"type":"keyword"},
-			"Modules":              {"type":"keyword"},
-			"Orgs":                 {"type":"keyword"},
-			"Password":             {"type":"keyword"},
-			"Protocol":             {"type":"keyword"},
-			"SrcPort":              {"type":"keyword"},
-			"Tag":                  {"type":"keyword"}
+			"HostName":				{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
+			"SMB_Implant":			{"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"}
 		}
 	}
 }
