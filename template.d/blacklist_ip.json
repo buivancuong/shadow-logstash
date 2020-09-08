@@ -1,0 +1,39 @@
+{
+	"settings":{
+		"analysis":{
+			"analyzer":{
+				"default":{"type":"custom","tokenizer":"my_tokenizer","filter":["lowercase"]},
+				"default_search":{"type":"custom","tokenizer":"keyword","filter":["lowercase"]}
+			},
+			"tokenizer":{
+				"my_tokenizer":{"type":"ngram","min_gram":2,"max_gram":12}
+			}
+		},
+		"max_ngram_diff":10
+	},
+	"mappings":{
+		"dynamic": false,
+		"properties":{
+			"@timestamp":			{"type":"date"},
+			"@version":				{"type":"keyword"},
+			"message":				{"type":"keyword"},
+			"tags":					{"type":"keyword"},
+			"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+			"SrcIP":				{"type":"ip"},
+			"SrcIP_CityName":		{"type":"keyword"},
+			"SrcIP_RegionName":		{"type":"keyword"},
+			"DstIP":				{"type":"ip"},
+			"DstIP_ASN":			{"type":"keyword"},
+			"DstIPGeo":				{"type":"keyword"},
+
+			"FileName":				{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
+			"Reason":				{"type":"keyword"},
+			"Sector":				{"type":"keyword"},
+			"Source":				{"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"}
+		}
+	}
+}

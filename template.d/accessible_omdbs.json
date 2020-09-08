@@ -26,6 +26,7 @@
 			
 			"Allocator":			{"type":"keyword"},
 			"Bits":					{"type":"keyword"},
+			"FileName":				{"type":"keyword"},
 			"GifVersion":			{"type":"keyword"},
 			"HostName":				{"type":"keyword"},
 			"JavaScriptEngine":		{"type":"keyword"},

@@ -28,6 +28,8 @@
   path.config: "/etc/logstash/conf.d/accessible_hadoop.conf"
 - pipeline.id: accessible_http
   path.config: "/etc/logstash/conf.d/accessible_http.conf"
+- pipeline.id: accessible_omdbs
+  path.config: "/etc/logstash/conf.d/accessible_omdbs"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce
@@ -38,3 +40,5 @@
   path.config: "/etc/logstash/conf.d/drone_sinkhole_ipv6.conf"
 - pipeline.id: drone_sinkhole_microsoft
   path.config: "/etc/logstash/conf.d/drone_sinkhole_microsoft.conf"
+- pipeline.id: blacklist_ip
+  path.config: "/etc/logstash/conf.d/blacklist_ip.conf"
