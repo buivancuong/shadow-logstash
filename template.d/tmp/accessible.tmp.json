@@ -12,7 +12,7 @@
 		"SrcIP_RegionName":		{"type":"keyword"},
 		"DstIP":				{"type":"ip"},
 		"DstIP_ASN":			{"type":"keyword"},
-		"DstIPGeo":				{"type":"keyword"},
+		"DstIPCountryCode":		{"type":"keyword"},
 
 		"ADB_Device":			{"type":"keyword"},
 		"ADB_Features":			{"type":"keyword"},
@@ -42,7 +42,7 @@
 		"SignatureAlgorithm":	{"type":"keyword"},
 		"SMB_Implant":			{"type":"keyword"},
 		"SrcPort":				{"type":"keyword"},
-		"SSL_Version":			{"type":"keyword"},
+		"SSLVersion":			{"type":"keyword"},
 		"SubjectName":			{"type":"keyword"},
 		"Tag":					{"type":"keyword"},
 		"UbiquitiFirmware":		{"type":"keyword"},
