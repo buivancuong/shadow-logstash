@@ -10,6 +10,8 @@
   path.config: "/etc/logstash/conf.d/csv_malware.conf"
 - pipeline.id: csv_phishing
   path.config: "/etc/logstash/conf.d/csv_phishing.conf"
+- pipeline.id: accessible
+  path.config: "/etc/logstash/conf.d/accessible.conf"
 - pipeline.id: accessible_adb
   path.config: "/etc/logstash/conf.d/accessible_adb.conf"
 - pipeline.id: accessible_afp
