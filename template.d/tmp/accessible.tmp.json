@@ -1,19 +1,19 @@
 {
-    "properties":{
+	"properties":{
 		"@timestamp":			{"type":"date"},
 		"@version":				{"type":"keyword"},
 		"message":				{"type":"keyword"},
 		"tags":					{"type":"keyword"},
 		"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
 
-		"SrcIP":				{"type":"ip"},
-		"SrcIP_ASN":			{"type":"keyword"},
-		"SrcIP_CityName":		{"type":"keyword"},
-		"SrcIP_RegionName":		{"type":"keyword"},
+		"SrcIp":				{"type":"ip"},
+		"SrcIpAsn":				{"type":"keyword"},
+		"SrcIpCityName":		{"type":"keyword"},
+		"SrcIpRegionName":		{"type":"keyword"},
 		"HostName":				{"type":"keyword"},
-		"DstIP":				{"type":"ip"},
-		"DstIP_ASN":			{"type":"keyword"},
-		"DstIP_CountryCode2":	{"type":"keyword"},
+		"DstIp":				{"type":"ip"},
+		"DstIpAsn":				{"type":"keyword"},
+		"DstIpCountryCode2":	{"type":"keyword"},
 
 		"AdbDevice":			{"type":"keyword"},
 		"AdbFeatures":			{"type":"keyword"},
