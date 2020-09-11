@@ -1,47 +1,9 @@
-- pipeline.id: csv_blacklist
-  path.config: "/etc/logstash/conf.d/csv_blacklist.conf"
-- pipeline.id: csv_csv_botnet
-  path.config: "/etc/logstash/conf.d/csv_botnet.conf"
-- pipeline.id: csv_ddos
-  path.config: "/etc/logstash/conf.d/csv_ddos.conf"
-- pipeline.id: csv_deface
-  path.config: "/etc/logstash/conf.d/csv_deface.conf"
-- pipeline.id: csv_malware
-  path.config: "/etc/logstash/conf.d/csv_malware.conf"
-- pipeline.id: csv_phishing
-  path.config: "/etc/logstash/conf.d/csv_phishing.conf"
-- pipeline.id: accessible
-  path.config: "/etc/logstash/conf.d/accessible.conf"
-- pipeline.id: accessible_adb
-  path.config: "/etc/logstash/conf.d/accessible_adb.conf"
-- pipeline.id: accessible_afp
-  path.config: "/etc/logstash/conf.d/accessible_afp.conf"
-- pipeline.id: accessible_ard
-  path.config: "/etc/logstash/conf.d/accessible_ard.conf"
-- pipeline.id: accessible_coap
-  path.config: "/etc/logstash/conf.d/accessible_coap.conf"
-- pipeline.id: accessible_csi
-  path.config: "/etc/logstash/conf.d/accessible_csi.conf"
-- pipeline.id: accessible_cwmp
-  path.config: "/etc/logstash/conf.d/accessible_cwmp.conf"
-- pipeline.id: accessible_ftps
-  path.config: "/etc/logstash/conf.d/accessible_ftps.conf"
-- pipeline.id: accessible_hadoop
-  path.config: "/etc/logstash/conf.d/accessible_hadoop.conf"
-- pipeline.id: accessible_http
-  path.config: "/etc/logstash/conf.d/accessible_http.conf"
-- pipeline.id: accessible_omdbs
-  path.config: "/etc/logstash/conf.d/accessible_omdbs.conf"
-- pipeline.id: accessible_radmin
-  path.config: "/etc/logstash/conf.d/accessible_radmin.conf"
-- pipeline.id: accessible_rdps
-  path.config: "/etc/logstash/conf.d/accessible_rdps.conf"
-- pipeline.id: accessible_rsync
-  path.config: "/etc/logstash/conf.d/accessible_rsync.conf"
-- pipeline.id: accessible_smb
-  path.config: "/etc/logstash/conf.d/accessible_smb.conf"
-- pipeline.id: accessible_telnet
-  path.config: "/etc/logstash/conf.d/accessible_telnet.conf"
+- pipeline.id: incident_accessible
+  path.config: "/etc/logstash/conf.d/incident_accessible.conf"
+- pipeline.id: blacklist_ip
+  path.config: "/etc/logstash/conf.d/blacklist_ip.conf"
+- pipeline.id: chargen
+  path.config: "/etc/logstash/conf.d/chargen.conf"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce
@@ -52,5 +14,4 @@
   path.config: "/etc/logstash/conf.d/drone_sinkhole_ipv6.conf"
 - pipeline.id: drone_sinkhole_microsoft
   path.config: "/etc/logstash/conf.d/drone_sinkhole_microsoft.conf"
-- pipeline.id: blacklist_ip
-  path.config: "/etc/logstash/conf.d/blacklist_ip.conf"
+
