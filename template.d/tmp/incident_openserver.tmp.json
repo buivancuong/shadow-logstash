@@ -1,0 +1,43 @@
+{
+    "properties":{
+        "@timestamp":			{"type":"date"},
+        "@version":				{"type":"keyword"},
+        "message":				{"type":"keyword"},
+        "tags":					{"type":"keyword"},
+        "LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+
+        "SrcIp":				{"type":"ip"},
+        "SrcIpAsn":				{"type":"keyword"},
+        "SrcIpCityName":		{"type":"keyword"},
+        "SrcIpRegionName":		{"type":"keyword"},
+        "HostName":				{"type":"keyword"},
+        "DstIp":				{"type":"ip"},
+        "DstIpAsn":				{"type":"keyword"},
+        "DstIpCountryCode2":	{"type":"keyword"},
+
+        "ElasticClusterName":	{"type":"keyword"},
+        "ElasticName":			{"type":"keyword"},
+        "ElasticLuceneVersion":	{"type":"keyword"},
+        "FileName":				{"type":"keyword"},
+        "IncidentType":			{"type":"keyword"},
+        "IppCupsVersion":		{"type":"keyword"},
+        "IppPrinterUrl":		{"type":"keyword"},
+        "LdapDnsHostName":		{"type":"keyword"},
+        "MdnsServices":			{"type":"keyword"},
+        "MdnsStationV4":		{"type":"ip"},
+        "MdnsStationV6":		{"type":"ip"},
+        "MdnsStationInfo":		{"type":"keyword"},
+        "MdnsHttpPort":			{"type":"keyword"},
+        "MsSqlInstance":		{"type":"keyword"},
+        "MsSqlNamedPipe":		{"type":"keyword"},
+        "MsSqlTcpPort":			{"type":"keyword"},
+        "Orgs":					{"type":"keyword"},
+        "PortMapperPrograms":	{"type":"keyword"},
+        "Protocol":				{"type":"keyword"},
+        "RedisGccVersion":		{"type":"keyword"},
+        "RedisOs":				{"type":"keyword"},
+        "ResolverDnsVersion":	{"type":"keyword"},
+        "SrcPort":				{"type":"keyword"},
+        "Version":				{"type":"keyword"}
+    }
+}
