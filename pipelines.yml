@@ -1,9 +1,11 @@
 - pipeline.id: incident_accessible
   path.config: "/etc/logstash/conf.d/incident_accessible.conf"
+- pipeline.id: incident_chargen
+  path.config: "/etc/logstash/conf.d/incident_chargen.conf"
+- pipeline.id: incident_openserver
+  path.config: "/etc/logstash/conf.d/incident_openserver.conf"
 - pipeline.id: blacklist_ip
   path.config: "/etc/logstash/conf.d/blacklist_ip.conf"
-- pipeline.id: chargen
-  path.config: "/etc/logstash/conf.d/chargen.conf"
 - pipeline.id: drone_botnet
   path.config: "/etc/logstash/conf.d/drone_botnet.conf"
 - pipeline.id: drone_bruteforce

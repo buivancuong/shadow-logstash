@@ -23,6 +23,7 @@
         "IppCupsVersion":		{"type":"keyword"},
         "IppPrinterUrl":		{"type":"keyword"},
         "LdapDnsHostName":		{"type":"keyword"},
+        "LdapServiceName":      {"type":"keyword"},
         "MdnsServices":			{"type":"keyword"},
         "MdnsStationV4":		{"type":"ip"},
         "MdnsStationV6":		{"type":"ip"},
@@ -35,8 +36,8 @@
         "PortMapperPrograms":	{"type":"keyword"},
         "Protocol":				{"type":"keyword"},
         "RedisGccVersion":		{"type":"keyword"},
-        "RedisOs":				{"type":"keyword"},
         "ResolverDnsVersion":	{"type":"keyword"},
+        "Server":               {"type":"keyword"},
         "SrcPort":				{"type":"keyword"},
         "Version":				{"type":"keyword"}
     }
