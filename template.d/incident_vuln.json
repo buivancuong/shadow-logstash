@@ -1,0 +1,49 @@
+{
+	"settings":{
+		"analysis":{
+			"analyzer":{
+				"default":{"type":"custom","tokenizer":"my_tokenizer","filter":["lowercase"]},
+				"default_search":{"type":"custom","tokenizer":"keyword","filter":["lowercase"]}
+			},
+			"tokenizer":{
+				"my_tokenizer":{"type":"ngram","min_gram":2,"max_gram":12}
+			}
+		},
+		"max_ngram_diff":10
+	},
+	"mappings":{
+		"dynamic": false,
+		"properties":{
+			"@timestamp":			{"type":"date"},
+			"@version":				{"type":"keyword"},
+			"message":				{"type":"keyword"},
+			"tags":					{"type":"keyword"},
+			"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
+	
+			"SrcIp":				{"type":"ip"},
+			"SrcIpAsn":				{"type":"keyword"},
+			"SrcIpCityName":		{"type":"keyword"},
+			"SrcIpRegionName":		{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
+			"DstIp":				{"type":"ip"},
+			"DstIpAsn":				{"type":"keyword"},
+			"DstIpCountryCode2":	{"type":"keyword"},
+
+			"CipherSuite":			{"type":"keyword"},
+			"FileName":				{"type":"keyword"},
+			"IncidentType":			{"type":"keyword"},
+			"IssuerName":			{"type":"keyword"},
+			"KeyAlgorithm":			{"type":"keyword"},
+			"Orgs":					{"type":"keyword"},
+			"Handshake":			{"type":"keyword"},
+			"Protocol":				{"type":"keyword"},
+			"SignatureAlgorithm":	{"type":"keyword"},
+			"SrcPort":				{"type":"keyword"},
+			"SslFreakCipherSuite":	{"type":"keyword"},
+			"HttpType":				{"type":"keyword"},
+			"Server":				{"type":"keyword"},
+			"SslVersion":			{"type":"keyword"},
+			"SubjectName":			{"type":"keyword"}
+		}
+	}
+}
