@@ -30,7 +30,6 @@
 			"DstIpCountryCode2":	{"type":"keyword"},
 
 			"FileName":				{"type":"keyword"},
-			"HostName":				{"type":"keyword"},
 			"Orgs":					{"type":"keyword"},
 			"Reason":				{"type":"keyword"},
 			"Sector":				{"type":"keyword"},
