@@ -16,9 +16,10 @@
         "DstIpCountryCode2":	{"type":"keyword"},
 
         "FileName":				{"type":"keyword"},
-        "IncidentType":			{"type":"keyword"},
+        "IncidentType":         {"type":"keyword"},
         "Orgs":					{"type":"keyword"},
+        "Quote":				{"type":"keyword"},
         "SrcPort":				{"type":"keyword"},
-        "Version":				{"type":"keyword"}
+        "Protocol":				{"type":"keyword"}
     }
 }

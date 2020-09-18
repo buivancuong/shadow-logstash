@@ -1,19 +1,32 @@
 - pipeline.id: incident_accessible
   path.config: "/etc/logstash/conf.d/incident_accessible.conf"
+- pipeline.id: incident_blacklistIp
+  path.config: "/etc/logstash/conf.d/incident_blacklistIp.conf"
 - pipeline.id: incident_chargen
   path.config: "/etc/logstash/conf.d/incident_chargen.conf"
+- pipeline.id: incident_compromisedweb
+  path.config: "/etc/logstash/conf.d/incident_compromisedweb.conf"
+- pipeline.id: incident_ddos
+  path.config: "/etc/logstash/conf.d/incident_ddos.conf"
+- pipeline.id: incident_drone
+  path.config: "/etc/logstash/conf.d/incident_drone.conf"
+- pipeline.id: incident_ipmi
+  path.config: "/etc/logstash/conf.d/incident_ipmi.conf"
+- pipeline.id: incident_mssinkhole
+  path.config: "/etc/logstash/conf.d/incident_mssinkhole.conf"
+- pipeline.id: incident_netbios
+  path.config: "/etc/logstash/conf.d/incident_netbios.conf"
+- pipeline.id: incident_ntp
+  path.config: "/etc/logstash/conf.d/incident_ntp.conf"
 - pipeline.id: incident_openserver
   path.config: "/etc/logstash/conf.d/incident_openserver.conf"
-- pipeline.id: blacklist_ip
-  path.config: "/etc/logstash/conf.d/blacklist_ip.conf"
-- pipeline.id: drone_botnet
-  path.config: "/etc/logstash/conf.d/drone_botnet.conf"
-- pipeline.id: drone_bruteforce
-  path.config: "/etc/logstash/conf.d/drone_bruteforce.conf"
-- pipeline.id: drone_sinkhole
-  path.config: "/etc/logstash/conf.d/drone_sinkhole.conf"
-- pipeline.id: drone_sinkhole_ipv6
-  path.config: "/etc/logstash/conf.d/drone_sinkhole_ipv6.conf"
-- pipeline.id: drone_sinkhole_microsoft
-  path.config: "/etc/logstash/conf.d/drone_sinkhole_microsoft.conf"
-
+- pipeline.id: incident_qotd
+  path.config: "/etc/logstash/conf.d/incident_qotd.conf"
+- pipeline.id: incident_snmp
+  path.config: "/etc/logstash/conf.d/incident_snmp.conf"
+- pipeline.id: incident_ssdp
+  path.config: "/etc/logstash/conf.d/incident_ssdp.conf"
+- pipeline.id: incident_version
+  path.config: "/etc/logstash/conf.d/incident_version.conf"
+- pipeline.id: incident_vuln
+  path.config: "/etc/logstash/conf.d/incident_vuln.conf"

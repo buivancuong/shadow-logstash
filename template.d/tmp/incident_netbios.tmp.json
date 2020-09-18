@@ -17,8 +17,11 @@
 
         "FileName":				{"type":"keyword"},
         "IncidentType":			{"type":"keyword"},
+        "MacAddress":			{"type":"keyword"},
+        "MachineName":			{"type":"keyword"},
         "Orgs":					{"type":"keyword"},
+        "Protocol":				{"type":"keyword"},
         "SrcPort":				{"type":"keyword"},
-        "Version":				{"type":"keyword"}
+        "UserName":				{"type":"keyword"}
     }
 }

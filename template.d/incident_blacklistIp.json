@@ -19,7 +19,7 @@
 			"message":				{"type":"keyword"},
 			"tags":					{"type":"keyword"},
 			"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
-	
+
 			"SrcIp":				{"type":"ip"},
 			"SrcIpAsn":				{"type":"keyword"},
 			"SrcIpCityName":		{"type":"keyword"},
@@ -30,10 +30,12 @@
 			"DstIpCountryCode2":	{"type":"keyword"},
 
 			"FileName":				{"type":"keyword"},
-			"IncidentType":			{"type":"keyword"},
+			"HostName":				{"type":"keyword"},
 			"Orgs":					{"type":"keyword"},
-			"SrcPort":				{"type":"keyword"},
-			"Version":				{"type":"keyword"}
+			"Reason":				{"type":"keyword"},
+			"Sector":				{"type":"keyword"},
+			"Source":				{"type":"keyword"},
+			"SrcIP_ASN":			{"type":"keyword"}
 		}
 	}
 }

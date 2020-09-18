@@ -19,7 +19,7 @@
 			"message":				{"type":"keyword"},
 			"tags":					{"type":"keyword"},
 			"LogTime":				{"type":"date","format":"yyyy-MM-dd/HH:mm:ss"},
-	
+
 			"SrcIp":				{"type":"ip"},
 			"SrcIpAsn":				{"type":"keyword"},
 			"SrcIpCityName":		{"type":"keyword"},
@@ -29,11 +29,13 @@
 			"DstIpAsn":				{"type":"keyword"},
 			"DstIpCountryCode2":	{"type":"keyword"},
 
+			"DstPort":				{"type":"keyword"},
 			"FileName":				{"type":"keyword"},
-			"IncidentType":			{"type":"keyword"},
+			"MaliciousHostName":	{"type":"keyword"},
+			"MaliciousType":		{"type":"keyword"},
 			"Orgs":					{"type":"keyword"},
 			"SrcPort":				{"type":"keyword"},
-			"Version":				{"type":"keyword"}
+			"Url":					{"type":"keyword"}
 		}
 	}
 }

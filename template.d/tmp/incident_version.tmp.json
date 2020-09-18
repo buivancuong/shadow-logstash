@@ -16,8 +16,9 @@
         "DstIpCountryCode2":	{"type":"keyword"},
 
         "FileName":				{"type":"keyword"},
-        "IncidentType":			{"type":"keyword"},
         "Orgs":					{"type":"keyword"},
+        "Protocol":				{"type":"keyword"},
+        "Server":				{"type":"keyword"},
         "SrcPort":				{"type":"keyword"},
         "Version":				{"type":"keyword"}
     }
